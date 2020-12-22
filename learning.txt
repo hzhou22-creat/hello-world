@@ -1,2 +1,6 @@
 1. connect local and GitHub:
 	- clone GitHub to local
+2. update local to GitHub
+	- git add .
+	- git commit -m ''
+	- git push
