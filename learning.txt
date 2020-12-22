@@ -1,0 +1,2 @@
+1. connect local and GitHub:
+	- clone GitHub to local
